@@ -30,7 +30,7 @@ This project helps users understand how various sorting algorithms work, by anim
 
 ## 🖥️ Technologies Used
 
-- 🧾 Java (JDK 17+ recommended)
+- 🧾 Java
 - 🧰 Java Swing (for GUI)
 - 💡 Object-Oriented Programming
 - 🪄 Multi-threading for smooth animation
